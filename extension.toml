@@ -1,0 +1,8 @@
+[package]
+name = "keepcalm"
+description = "A calm and focused theme for software development in Zed"
+version = "1.0.0"
+authors = ["Sergio García Mondaray <sgmonda@gmail.com>"]
+repository = "https://github.com/sgmonda/keepcalm-zed.git"
+
+[themes]
