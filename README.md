@@ -1,3 +1,6 @@
+
+![236014786-d399c38d-1017-453a-a7c8-ad023f05319b](https://github.com/user-attachments/assets/062fffc0-8d50-4a25-895e-f297b2658528)
+
 # KeepCalm
 
 A calm and focused dark theme for [Zed](https://zed.dev).
