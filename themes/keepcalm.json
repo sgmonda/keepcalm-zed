@@ -88,7 +88,6 @@
 
         "link_text.hover": "#49CAE4",
 
-        // File tree GIT status
         "conflict": "#a44",
         "conflict.background": null,
         "conflict.border": null,
@@ -331,7 +330,6 @@
             "cursor": "#FFBD3E",
             "background": "#2C2A2E",
             "selection": "#504650"
-            // TODO Set text color here
           }
         ]
       }
